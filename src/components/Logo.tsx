@@ -2,30 +2,11 @@ import React from "react";
 
 function Logo() {
   return (
-    <svg id="logo" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
-      <title>Logo</title>
-      <g>
-        <g id="J" transform="translate(35.000000, 35.000000)">
-          <path
-            fill="currentColor"
-            d="M 6 15 L 4 15 C 3.5 19.8945 7.6055 24 12.75 24 C 17.8945 24 22 19.8945 22 14.75 L 22 12 C 22 3 22 0 22 0 L 19 0 C 18 0 17 0 17 0 L 17 15 C 17.5 17.5117 15.5117 19.5 12.75 19.5 C 9.9883 19.5 8 17.5117 8 15 Z"
-          />
-        </g>
-        <path
-          stroke="currentColor"
-          strokeWidth="5"
-          strokeLinecap="round"
-          strokeLinejoin="round"
-          d="M 50, 5
-              L 11, 27
-              L 11, 72
-              L 50, 95
-              L 89, 73
-              L 89, 28 z"
-        />
-      </g>
-    </svg>
+    <svg  xmlns="http://www.w3.org/2000/svg"  width="100"  height="100"  viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  stroke-width="2"  stroke-linecap="round"  stroke-linejoin="round"  class="icon icon-tabler icons-tabler-outline icon-tabler-hexagon-letter-j"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M19.875 6.27a2.225 2.225 0 0 1 1.125 1.948v7.284c0 .809 -.443 1.555 -1.158 1.948l-6.75 4.27a2.269 2.269 0 0 1 -2.184 0l-6.75 -4.27a2.225 2.225 0 0 1 -1.158 -1.948v-7.285c0 -.809 .443 -1.554 1.158 -1.947l6.75 -3.98a2.33 2.33 0 0 1 2.25 0l6.75 3.98h-.033z" /><path d="M10 8h4v6a2 2 0 1 1 -4 0" /></svg>
   );
 }
 
 export default Logo;
+
+
+
