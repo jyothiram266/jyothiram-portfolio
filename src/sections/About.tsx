@@ -28,7 +28,7 @@ function About() {
       <div className="about-grid">
         <div className="about-grid-info">
           <p className="about-grid-info-text">
-          Hi, I’m Jyothiram! I’m a DevOps engineer passionate about creating efficient and scalable digital solutions. My journey in technology began with my first project, 
+          Hi, I’m a DevOps engineer passionate about creating efficient and scalable digital solutions. My journey in technology began with my first project, 
           containerizing, a MERN app developed using React and express.js in 2023..
           </p>
           <p className="about-grid-info-text">
